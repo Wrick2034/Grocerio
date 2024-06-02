@@ -3,6 +3,8 @@
 
 <h3>Always remember to restart the servers if something's not working...</h3>
 
+# Backend
+
 For Installing Mailhog,
 1. sudo apt-get -y install golang-go
 2. sudo apt-get install git
@@ -33,7 +35,7 @@ To Run Vue Frontend Server,
 To Download all the requirements from requirements.txt,
 1. pip install -r requirements.txt
 
-# frontend
+# Frontend
 
 ## Project setup
 ```
